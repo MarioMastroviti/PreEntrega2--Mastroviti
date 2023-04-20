@@ -1,0 +1,13 @@
+//estilos del catalogo de productos
+
+.productos{
+  padding: 2rem;
+  display: grid;
+  text-align: center;
+}
+
+
+.img-producto{
+  padding: 2rem;
+ grid-template-columns: auto auto auto;
+}
